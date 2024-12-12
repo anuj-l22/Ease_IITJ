@@ -10,12 +10,12 @@ By integrating GPM into the EASE pipeline, we aim to further enhance the adapter
 
 - **EASE (Expandable Subspace Ensemble)**  
   - *Paper:* Expandable Subspace Ensemble for Continual Learning  
-    [GitHub Link](#https://github.com/sun-hailong/CVPR24-Ease) | [ArXiv Link](#https://arxiv.org/abs/2403.12030) 
+    [GitHub Link](https://github.com/sun-hailong/CVPR24-Ease) | [ArXiv Link](https://arxiv.org/abs/2403.12030) 
   - *Conference:* CVPR 2024
 
 - **GPM (Gradient Projection Memory)**  
   - *Paper:* Gradient Projection Memory for Continual Learning  
-    [GitHub Link](#https://github.com/sahagobinda/GPM) | [ArXiv Link](#https://arxiv.org/abs/2103.09762)  
+    [GitHub Link](https://github.com/sahagobinda/GPM) | [ArXiv Link](https://arxiv.org/abs/2103.09762)  
   - *Conference:* ICLR 2021
 
 ## Repository Structure
