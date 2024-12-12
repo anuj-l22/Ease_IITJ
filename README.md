@@ -72,14 +72,15 @@ Compute significant subspace directions using SVD and thresholding.
 Project gradients to minimize interference with previously learned knowledge.
 The logs_GPM folder provides a reference for the expected outcomes and performance metrics after GPM integration.
 
-Results
+## Results
 
-![EASE Baseline Results](./images/ease_baseline.png "EASE Baseline")
+![EASE Baseline Results](./images/ease_baseline.png "EASE Baseline")  
+**Figure 1:** EASE Baseline Results
 
-![EASE + GPM Results](./images/ease_gpm.png "EASE + GPM Results")
+![EASE + GPM Results](./images/ease_gpm.png "EASE + GPM Results")  
+**Figure 2:** EASE + GPM Results
 
 These figures illustrate how GPM integration helps maintain or improve performance compared to baseline EASE runs.
-
 
 
 
